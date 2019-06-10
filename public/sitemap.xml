@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://canicodenow.github.io/folio/series/goals/</loc>
+    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://canicodenow.github.io/folio/posts/my-situation/</loc>
+    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://canicodenow.github.io/folio/posts/</loc>
+    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://canicodenow.github.io/folio/series/progress/</loc>
+    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://canicodenow.github.io/folio/series/</loc>
+    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://canicodenow.github.io/folio/tags/</loc>
+    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://canicodenow.github.io/folio/</loc>
+    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://canicodenow.github.io/folio/tags/goals/</loc>
+    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://canicodenow.github.io/folio/tags/odin/</loc>
+    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://canicodenow.github.io/folio/tags/updates/</loc>
+    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://canicodenow.github.io/folio/series/hugo/</loc>
+    <lastmod>2017-01-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://canicodenow.github.io/folio/series/theme/</loc>
+    <lastmod>2017-01-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://canicodenow.github.io/folio/posts/theme-demo/</loc>
+    <lastmod>2017-01-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://canicodenow.github.io/folio/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://canicodenow.github.io/folio/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://canicodenow.github.io/folio/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://canicodenow.github.io/folio/projects/</loc>
+  </url>
+  
+</urlset>
