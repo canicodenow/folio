@@ -13,7 +13,7 @@ pygmentsstyle = "b2"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "yourdisqusshortname"
+disqusShortname = "yourdiscussshortname"
 
 [params]
     author = "Matthew Domm"
