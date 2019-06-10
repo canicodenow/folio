@@ -1,4 +1,4 @@
-baseurl = "https://canicodenow.github.io/"
+baseurl = "https://canicodenow.github.io/folio"
 title = "canicodenow"
 
 theme = "hugo-coder"
