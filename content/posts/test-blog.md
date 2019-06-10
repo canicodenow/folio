@@ -2,7 +2,6 @@
 categories = []
 content = ""
 date = "2019-06-10T20:00:00+00:00"
-draft = true
 series = []
 slug = "test"
 tags = ["update"]
