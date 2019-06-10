@@ -10,7 +10,7 @@ fields:
   label: title
 - type: text
   name: slug
-  label: slug
+  label: url
 - type: list
   name: tags
   label: tags
@@ -20,3 +20,12 @@ fields:
 - type: list
   name: series
   label: series
+- name: content
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Content
