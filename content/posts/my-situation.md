@@ -1,19 +1,19 @@
-+++ 
-date = "2019-06-07"
-title = "My situation, or 'so why are you learning to code?’"
-slug = "my-situation" 
-tags = ["updates", "goals", "odin"]
-categories = []
-series = ["Progress", "Goals"]
 +++
+categories = []
+date = "2019-06-07"
+series = ["Progress", "Goals"]
+slug = "my-situation"
+tags = ["updates", "goals", "odin"]
+title = "My situation, or 'so why are you learning to code?’"
 
++++
 It’s about time I followed my goals. My job is fine – I work as a content editor, managing a local authority website – but would I be happy doing that forever? No.
 
 I’m good at it and it pays the bills, but I don’t feel that buzz I’m always told you’re meant to feel. I never knew what I wanted to be growing up, but I’m starting to realise web development is for me. [At 31 it’s late, but not too late to set my career to a new path](/about "About me").
 
 ## Why coding?
 
-The short answer is I think it suits me and the way my mind works. A (slightly) longer answer is that there has always been an interest, a curiosity as to how it all works, bubbling under the surface and the time is right to see what that’s all about.
+The short answer is I think it suits the way my mind works. A (slightly) longer answer is that there has always been an interest, a curiosity as to how it all works, bubbling under the surface and the time is right to see what that’s all about.
 
 In my teens, I used to make little wrestling-based decision games in what I seem to remember as C. Looking back, I should have developed (see what I did there?) this further but at that age I wasn’t thinking about jobs and bills and adult stuff, so I didn’t. That’s what I’m using to justify waiting until 31, anyway.
 
@@ -37,11 +37,11 @@ Sadly I’m someone who adores procrastination, who needs to battle inner demons
 
 This will be a long and difficult road, I’m aware. So I’ve started this blog to:
 
-+ keep me on track
-+ set myself targets – if I tell the world (or the person who accidentally clicks on my blog) then I can’t let them down, can I?
-+ brag about successes
-+ moan about difficulties
-+ write things down in order for it to sink in
-+ other reasons I can’t think of right now, but certainly not to procrastinate and distract me from the actual coding work…
+* keep me on track
+* set myself targets – if I tell the world (or the person who accidentally clicks on my blog) then I can’t let them down, can I?
+* brag about successes
+* moan about difficulties
+* write things down in order for it to sink in
+* other reasons I can’t think of right now, but certainly not to procrastinate and distract me from the actual coding work…
 
 I hope some might follow me on this journey. Welcome.
