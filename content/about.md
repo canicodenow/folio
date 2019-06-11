@@ -3,7 +3,7 @@ slug = "about"
 title = "About me"
 
 +++
-I’m 31. I work full-time in web content, but it doesn’t give me that buzz I’m looking for. Instead, I want to learn web development. My mind works in a logical way and I like to make sure things, just, work..
+I’m 31. I work full-time in web content, but it doesn’t give me that buzz I’m looking for. Instead, I want to learn web development. My mind works in a logical way and I like to make sure things, just, work.
 
 I set up this site to track my progress – or keep myself in check. Probably the latter, if I’m honest. Certainly not to procrastinate – no way. I’m a writer by nature and experience, so by noting down my problems, my successes, my goals, I think I’ll help my learning.
 
