@@ -13,6 +13,8 @@ pygmentsstyle = "b2"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
+googleAnalytics = "UA-141856594-1"
+
 disqusShortname = "yourdiscussshortname"
 
 [params]
