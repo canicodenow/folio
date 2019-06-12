@@ -15,7 +15,7 @@ pygmentscodefencesguesssyntax = true
 
 googleAnalytics = "UA-141856594-1"
 
-    # disqusShortname = "yourdiscussshortname"
+disqusShortname = "yourdiscussshortname"
 
 [params]
     author = "Matthew Domm"
@@ -42,16 +42,10 @@ googleAnalytics = "UA-141856594-1"
     maxSeeAlsoItems = 5
 
     # Custom CSS
-    custom_css = ["scss/override.scss"]
+    custom_css = ["scss/_base.scss", "scss/_content.scss", "scss/_variables.scss", "scss/_navigation.scss"]
     
     # Custom JS
     custom_js = []
-
-[params.staticman]
-  endpoint = "https://api.staticman.net/v2/entry"
-  username = "canicodenow"
-  repository = "folio"
-  branch = "master"
 
 [taxonomies]
   category = "categories"
