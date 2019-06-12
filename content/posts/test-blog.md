@@ -12,6 +12,6 @@ Content goes in here
 
 > Hello
 
-* Try a list
+* Try a list.
 
 ***
