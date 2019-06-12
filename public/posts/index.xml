@@ -6,10 +6,21 @@
     <description>Recent content in Posts on canicodenow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2019 12:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://canicodenow.github.io/folio/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Test blog</title>
+      <link>https://canicodenow.github.io/folio/posts/test/</link>
+      <pubDate>Wed, 12 Jun 2019 12:00:00 +0100</pubDate>
+      
+      <guid>https://canicodenow.github.io/folio/posts/test/</guid>
+      <description>Content goes in here
+ Hello
+  Try a list.  </description>
+    </item>
     
     <item>
       <title>My situation, or &#39;so why are you learning to code?’</title>

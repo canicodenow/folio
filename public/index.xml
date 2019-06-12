@@ -6,10 +6,21 @@
     <description>Recent content on canicodenow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2019 12:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://canicodenow.github.io/folio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Test blog</title>
+      <link>https://canicodenow.github.io/folio/posts/test/</link>
+      <pubDate>Wed, 12 Jun 2019 12:00:00 +0100</pubDate>
+      
+      <guid>https://canicodenow.github.io/folio/posts/test/</guid>
+      <description>Content goes in here
+ Hello
+  Try a list.  </description>
+    </item>
     
     <item>
       <title>My situation, or &#39;so why are you learning to code?’</title>
@@ -43,7 +54,7 @@ $$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://canicodenow.github.io/folio/about/</guid>
-      <description>I’m 31. I work full-time in web content, but it doesn’t give me that buzz I’m looking for. Instead, I want to learn web development. My mind works in a logical way and I like to make sure things, just, work..
+      <description>I’m 31. I work full-time in web content, but it doesn’t give me that buzz I’m looking for. Instead, I want to learn web development. My mind works in a logical way and I like to make sure things, just, work.
 I set up this site to track my progress – or keep myself in check. Probably the latter, if I’m honest. Certainly not to procrastinate – no way. I’m a writer by nature and experience, so by noting down my problems, my successes, my goals, I think I’ll help my learning.</description>
     </item>
     
