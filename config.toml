@@ -42,7 +42,7 @@ disqusShortname = "yourdiscussshortname"
     maxSeeAlsoItems = 5
 
     # Custom CSS
-    custom_css = ["scss/_base.scss", "scss/_content.scss", "scss/_variables.scss", "scss/_navigation.scss"]
+    custom_css = []
     
     # Custom JS
     custom_js = []
