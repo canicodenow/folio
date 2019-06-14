@@ -1,6 +1,7 @@
 +++
 date = "2017-01-08"
 description = "The post demonstrates features of the coder theme."
+images = ["/images/N90.jpg"]
 math = "true"
 series = ["Theme", "Hugo"]
 title = "Theme Demo"
