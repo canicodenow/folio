@@ -116,6 +116,7 @@ code {
 blockquote {
   border-left: 10px solid red;
   border-right: 5px solid red;
+  background-color: rgba(241, 145, 145, 0.29);
   display: inline-block;
   padding-left: 2.2rem;
   padding-right: 2.2rem;
@@ -228,6 +229,15 @@ img {
     font-style: italic;
     font-size: 1.6rem;
     margin: 0; }
+  .content a {
+    font-weight: 300;
+    color: #1565c0;
+    text-decoration: none;
+    border-bottom: 2px solid;
+    transition: all .4s ease-in; }
+    .content a:focus, .content a:hover {
+      padding-bottom: 4px;
+      color: red; }
 
 .avatar img {
   width: 20rem;

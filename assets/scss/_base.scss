@@ -32,6 +32,19 @@ a {
   }
 }
 
+// a {
+//   font-weight: 300;
+//   color: $link-color;
+//   text-decoration: none;
+//   border-bottom: 2px solid;
+//   transition: all .4s ease-in;
+//   &:focus,
+//   &:hover {
+//     padding-bottom: 4px;
+//     color: rgb(255, 0, 0);
+//   }
+// }
+
 p {
   margin: 2.0rem 0 2.0rem 0;
 }
@@ -129,6 +142,7 @@ code {
 blockquote {
   border-left: 10px solid red;
   border-right: 5px solid red;
+  background-color: rgba(241, 145, 145, 0.29);
   display: inline-block;
   padding-left: 2.2rem;
   padding-right: 2.2rem;
