@@ -31,6 +31,5 @@ fields:
   description: Main image
   default: "/uploads/coder-default.jpeg"
 pages:
-- content/posts/another-test.md
 - content/posts/what-i-ve-tried-so-far-or-ffs-just-pick-one-course.md
 - content/posts/test-blog.md
