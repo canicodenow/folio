@@ -1,13 +1,15 @@
 +++
 categories = []
 date = "2019-06-15T13:40:58+01:00"
-draft = true
+image = "/uploads/odin-project.png"
 series = []
 slug = "what-ive-tried"
 tags = ["courses", "updates"]
 title = "What I've tried so far, or 'ffs, just pick one course!'"
 
 +++
+![](https://www.theodinproject.com/assets/og-logo-003bdac3098010b4f1143000a941b80c67eebd74fbc6f36b2e7ef92dd03e8020.png)
+
 When I decided to learn to code I had no idea how many top quality resources were available – and for free, as well. I wanted to do them all – I _thought I could_ do them all. Even once I’d committed, I was still researching and finding others to do ‘next’. Because smashing through a course about learning to think like a programmer and learning an actual new language would be a breeze, wouldn’t it?
 
 Then reality hit. I still would love to complete all the learning to code resources I’ve found, but there are a few things getting in the way:
@@ -31,3 +33,11 @@ edX opened my mind to online learning. [A course run by MIT, online, for free?](
 Enthused by edX, I took a look at another very highly rated [computer science introduction course, CS50.](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) At some point I had it in my mind that the only way into programming was to catch up with everyone else who had a computer science degree. So I tried this course.
 
 I got further. David Malan, the lecturer, is incredibly engaging and the lectures are filmed live from Harvard, which is a fantastic touch. The structure and support the course has is also superior to MIT. I got through several weeks, building the classic cyphers Vigenere and Caesar along the way. However, this course is seen as a basic introduction, and as the weeks progressed I couldn’t see my end goal – [a job offer in web development, remember](https://canicodenow.wordpress.com/about/) – getting closer, so I decided to move on.
+
+##### The Odin Project
+
+So on to [the Odin Project](http://theodinproject.com/). The reason I jumped to this – and _will_ see it through, I promise – is that it provides a clear structure and target, which is to get me ready for a job in web development.
+
+I like the structure. As a learner, you’re given links to resources to provide background, you’re given suggested tutorials and then the course pulls it all together with mini-projects. These are tough and they require you to Google things you don’t understand. When I complete one I feel immense satisfaction, which encourages me to keep going. [My Github has examples](https://github.com/canicodenow/) of what I’ve done so far.
+
+I do intend to learn the theory behind computer science, but I can’t wait years before I’m ready to apply for jobs if I go that route. I want to get into the field and grow from there. That’s my motivation to complete the Odin Project.
