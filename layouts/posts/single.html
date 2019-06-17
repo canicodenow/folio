@@ -23,6 +23,7 @@
           </div>
           {{ with .Page.Params.Categories }}{{ partial "taxonomy/categories" . }}{{ end }}
           {{ with .Page.Params.Tags }}{{ partial "taxonomy/tags" . }}{{ end }}
+          < img src="{{ .Params.image | relURL}}" >
         </div>
       </header>
 
