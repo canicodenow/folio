@@ -23,11 +23,12 @@ fields:
 - type: list
   name: series
   label: series
-- name: image
+- name: image/file_upload_field
   type: file
   config:
     maxSize: '5'
   label: main-image
+  description: Main image
 pages:
 - content/posts/what-i-ve-tried-so-far-or-ffs-just-pick-one-course.md
 - content/posts/test-blog.md
