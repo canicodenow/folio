@@ -23,7 +23,7 @@ fields:
 - type: list
   name: series
   label: series
-- name: image/file_upload_field
+- name: image
   type: file
   config:
     maxSize: '5'
