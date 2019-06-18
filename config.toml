@@ -22,7 +22,7 @@ disqusShortname = "yourdiscussshortname"
     description = "Matthew Domm's portfolio and blog"
     keywords = "blog,developer,personal,portfolio,content"
     info = "Web Developer (in training)"
-    avatarurl = "images/avatar.jpg"
+    avatarurl = "images/profile.jpeg"
     footercontent = "I'm learning to become a web developer at 31. This is my portfolio and blog."
 
     dateformat = "January 2, 2006"
