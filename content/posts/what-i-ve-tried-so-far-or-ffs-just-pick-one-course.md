@@ -8,8 +8,6 @@ tags = ["courses", "updates"]
 title = "What I've tried so far, or 'ffs, just pick one course!'"
 
 +++
-![](https://www.theodinproject.com/assets/og-logo-003bdac3098010b4f1143000a941b80c67eebd74fbc6f36b2e7ef92dd03e8020.png)
-
 When I decided to learn to code I had no idea how many top quality resources were available – and for free, as well. I wanted to do them all – I _thought I could_ do them all. Even once I’d committed, I was still researching and finding others to do ‘next’. Because smashing through a course about learning to think like a programmer and learning an actual new language would be a breeze, wouldn’t it?
 
 Then reality hit. I still would love to complete all the learning to code resources I’ve found, but there are a few things getting in the way:
