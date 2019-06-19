@@ -1,11 +1,10 @@
 +++
 categories = []
 date = "2019-06-19T21:33:30+01:00"
-draft = true
 image = "/uploads/calculator.png"
 series = []
 slug = "things-ive-made"
-tags = []
+tags = ["projects", "odin"]
 title = "Things I've made so far"
 
 +++
