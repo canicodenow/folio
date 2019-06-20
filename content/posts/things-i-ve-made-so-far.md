@@ -58,6 +58,7 @@ It was time to create some simple maths functions and put them together into a c
 * I still need to fully understand arrow functions – I’ve used them here as but I want to be able to refactor them into longer function declarations, just so that I truly ‘get it’. Something to learn
 
 Here's a bit of code I want to fully understand:
+
 ``` js
     function changeGrid() {
         let children = document.querySelectorAll(".row");
@@ -67,6 +68,7 @@ Here's a bit of code I want to fully understand:
         let getGridSize = prompt("Choose number of rows for the grid", "16");
         createGrid(getGridSize);
     };
+```
 
 ## Next targets
 
