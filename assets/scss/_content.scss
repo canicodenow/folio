@@ -115,9 +115,10 @@
         color: $fg-color;
         font-family: $heading-font-family;
         font-weight: 700;
+        border-bottom: 0;
         &:hover,
         &:focus {
-          color: $link-color
+          color: $link-color;
         }
       }
     }
@@ -155,9 +156,11 @@
           margin-left: 1.0rem;
           margin-right: 1.0rem;
           font-size: 1.6rem;
+          border-bottom: 0;
           &:hover,
           &:focus {
             color: $link-color;
+            border-bottom: 0;
           }
           @media only screen and (max-width : 768px) {
             font-size: 1.4rem;

@@ -270,7 +270,8 @@ img {
       font-size: 1.8rem;
       color: #212121;
       font-family: Merriweather, Georgia, serif;
-      font-weight: 700; }
+      font-weight: 700;
+      border-bottom: 0; }
       .list ul li .title:hover, .list ul li .title:focus {
         color: #1565c0; }
 
@@ -302,9 +303,11 @@ img {
           text-transform: uppercase;
           margin-left: 1.0rem;
           margin-right: 1.0rem;
-          font-size: 1.6rem; }
+          font-size: 1.6rem;
+          border-bottom: 0; }
           .centered .about ul li a:hover, .centered .about ul li a:focus {
-            color: #1565c0; }
+            color: #1565c0;
+            border-bottom: 0; }
           @media only screen and (max-width: 768px) {
             .centered .about ul li a {
               font-size: 1.4rem; } }
