@@ -45,7 +45,7 @@ Another trip down memory lane – this time Etch-a-Sketch. This one caused some 
 * [Etch-a-Sketch](https://canicodenow.github.io/etch-a-sketch/)
 * [Github for the project](https://github.com/canicodenow/etch-a-sketch)
 
-![etch-a-sketch](/uploads/canicode-etch.png "etch-a-sketch")
+{{< figure src="/uploads/canicode-etch.png" caption="Etch-a-sketch made for The Odin Project" >}}
 
 It was time to create some simple maths functions and put them together into a calculator. I followed (and tweaked) a tutorial for CSS grid to create the look I wanted, and linked it up to javaScript. The code is pretty ugly and I have a list of bugs and todos but mostly it works and I'm pretty pleased:
 
