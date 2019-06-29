@@ -1,7 +1,6 @@
 +++
 categories = ["updates"]
 date = "2019-06-29T21:55:01+01:00"
-draft = true
 image = "/uploads/coder-default.jpeg"
 series = []
 slug = "part-time"
