@@ -6,20 +6,40 @@
     <description>Recent content on canicodenow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Jun 2019 12:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jun 2019 21:55:01 +0100</lastBuildDate>
     
 	<atom:link href="https://canicodenow.github.io/folio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Test blog</title>
-      <link>https://canicodenow.github.io/folio/posts/test/</link>
-      <pubDate>Wed, 12 Jun 2019 12:00:00 +0100</pubDate>
+      <title>I found some more time to study down the back of the sofa, or &#39;I&#39;ve gone part-time for a year&#39;</title>
+      <link>https://canicodenow.github.io/folio/posts/part-time/</link>
+      <pubDate>Sat, 29 Jun 2019 21:55:01 +0100</pubDate>
       
-      <guid>https://canicodenow.github.io/folio/posts/test/</guid>
-      <description>Content goes in here
- Hello
-  Try a list.  </description>
+      <guid>https://canicodenow.github.io/folio/posts/part-time/</guid>
+      <description>Can I code now? No. Of course not.
+Well, I know some stuff but this answer will only be yes when I&amp;rsquo;m employed as a coder, remember? I&amp;rsquo;ll keep asking as that&amp;rsquo;s the whole reason I&amp;rsquo;m doing this. It&amp;rsquo;s hard, but I&amp;rsquo;m feeling a bit more confident lately.
+So what&amp;rsquo;s changed? I said before how hard I found it to study with full-time work. I think I may have solved that one.</description>
+    </item>
+    
+    <item>
+      <title>Things I&#39;ve made so far</title>
+      <link>https://canicodenow.github.io/folio/posts/things-ive-made/</link>
+      <pubDate>Wed, 19 Jun 2019 21:33:30 +0100</pubDate>
+      
+      <guid>https://canicodenow.github.io/folio/posts/things-ive-made/</guid>
+      <description>I can say how much I’ve read about web development or how many tutorials I’ve completed, but the real evidence will be things. Things I’ve made that work and that can go on my CV.
+So here’s where I’m at in terms of things.
+CS50x project(s) In my last blog I mentioned CS50x and why I stopped doing the course. Before that I did make some things, but sadly the course has its own IDE which doesn’t go on to Github, so I don’t have much to share.</description>
+    </item>
+    
+    <item>
+      <title>What I&#39;ve tried so far, or &#39;ffs, just pick one course!&#39;</title>
+      <link>https://canicodenow.github.io/folio/posts/what-ive-tried/</link>
+      <pubDate>Sat, 15 Jun 2019 13:40:58 +0100</pubDate>
+      
+      <guid>https://canicodenow.github.io/folio/posts/what-ive-tried/</guid>
+      <description>When I decided to learn to code I had no idea how many top quality resources were available – and for free, as well. I wanted to do them all – I thought I could do them all. Even once I’d committed, I was still researching and finding others to do ‘next’. Because smashing through a course about learning to think like a programmer and learning an actual new language would be a breeze, wouldn’t it?</description>
     </item>
     
     <item>
@@ -64,8 +84,7 @@ I set up this site to track my progress – or keep myself in check. Probably th
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://canicodenow.github.io/folio/contact/</guid>
-      <description>I look forward to hearing from you.
-You can find me on Twitter: @mattdomm_
+      <description>You can find me on Twitter: @mattdomm_
 Or just send me an email:
  Send  </description>
     </item>

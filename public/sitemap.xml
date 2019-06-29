@@ -3,19 +3,71 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://canicodenow.github.io/folio/posts/</loc>
-    <lastmod>2019-06-12T12:00:00+01:00</lastmod>
+    <loc>https://canicodenow.github.io/folio/categories/</loc>
+    <lastmod>2019-06-29T21:55:01+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://canicodenow.github.io/folio/posts/test/</loc>
-    <lastmod>2019-06-12T12:00:00+01:00</lastmod>
+    <loc>https://canicodenow.github.io/folio/posts/part-time/</loc>
+    <lastmod>2019-06-29T21:55:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://canicodenow.github.io/folio/posts/</loc>
+    <lastmod>2019-06-29T21:55:01+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://canicodenow.github.io/folio/</loc>
-    <lastmod>2019-06-12T12:00:00+01:00</lastmod>
+    <lastmod>2019-06-29T21:55:01+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://canicodenow.github.io/folio/categories/updates/</loc>
+    <lastmod>2019-06-29T21:55:01+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://canicodenow.github.io/folio/tags/</loc>
+    <lastmod>2019-06-19T21:33:30+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://canicodenow.github.io/folio/posts/things-ive-made/</loc>
+    <lastmod>2019-06-19T21:33:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://canicodenow.github.io/folio/tags/odin/</loc>
+    <lastmod>2019-06-19T21:33:30+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://canicodenow.github.io/folio/tags/projects/</loc>
+    <lastmod>2019-06-19T21:33:30+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://canicodenow.github.io/folio/posts/what-ive-tried/</loc>
+    <lastmod>2019-06-15T13:40:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://canicodenow.github.io/folio/tags/courses/</loc>
+    <lastmod>2019-06-15T13:40:58+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://canicodenow.github.io/folio/tags/updates/</loc>
+    <lastmod>2019-06-15T13:40:58+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -43,25 +95,7 @@
   </url>
   
   <url>
-    <loc>https://canicodenow.github.io/folio/tags/</loc>
-    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://canicodenow.github.io/folio/tags/goals/</loc>
-    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://canicodenow.github.io/folio/tags/odin/</loc>
-    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://canicodenow.github.io/folio/tags/updates/</loc>
     <lastmod>2019-06-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -85,11 +119,6 @@
   
   <url>
     <loc>https://canicodenow.github.io/folio/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://canicodenow.github.io/folio/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>

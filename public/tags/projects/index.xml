@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>odin on canicodenow</title>
-    <link>https://canicodenow.github.io/folio/tags/odin/</link>
-    <description>Recent content in odin on canicodenow</description>
+    <title>projects on canicodenow</title>
+    <link>https://canicodenow.github.io/folio/tags/projects/</link>
+    <description>Recent content in projects on canicodenow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 19 Jun 2019 21:33:30 +0100</lastBuildDate>
     
-	<atom:link href="https://canicodenow.github.io/folio/tags/odin/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://canicodenow.github.io/folio/tags/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,16 +20,6 @@
       <description>I can say how much I’ve read about web development or how many tutorials I’ve completed, but the real evidence will be things. Things I’ve made that work and that can go on my CV.
 So here’s where I’m at in terms of things.
 CS50x project(s) In my last blog I mentioned CS50x and why I stopped doing the course. Before that I did make some things, but sadly the course has its own IDE which doesn’t go on to Github, so I don’t have much to share.</description>
-    </item>
-    
-    <item>
-      <title>My situation, or &#39;so why are you learning to code?’</title>
-      <link>https://canicodenow.github.io/folio/posts/my-situation/</link>
-      <pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://canicodenow.github.io/folio/posts/my-situation/</guid>
-      <description>It’s about time I followed my goals. My job is fine – I work as a content editor, managing a local authority website – but would I be happy doing that forever? No.
-I’m good at it and it pays the bills, but I don’t feel that buzz I’m always told you’re meant to feel. I never knew what I wanted to be growing up, but I’m starting to realise web development is for me.</description>
     </item>
     
   </channel>
