@@ -201,9 +201,11 @@ img {
           font-size: 4.0rem;
           line-height: 4.4rem; } }
   .content article h2 {
-    display: inline;
+    display: inline-block;
     background-color: #48f3ff;
-    padding: 4px; }
+    margin: 1.2rem;
+    height: 2.4rem;
+    padding: 8px; }
   .content article footer {
     margin-top: 4.0rem;
     border-top: 3px solid gray; }
@@ -270,8 +272,7 @@ img {
       font-size: 1.8rem;
       color: #212121;
       font-family: Merriweather, Georgia, serif;
-      font-weight: 700;
-      border-bottom: 0; }
+      font-weight: 700; }
       .list ul li .title:hover, .list ul li .title:focus {
         color: #1565c0; }
 
@@ -336,18 +337,18 @@ img {
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
   background: #1cb841;
   padding: 5px;
-  width: 50%;
-  max-width: 400px; }
+  width: 100%;
+  transition: 1s; }
   @media only screen and (max-width: 768px) {
     .submit {
       width: 100%; } }
 
 .submit:hover {
-  background: #2EBC99; }
+  background: #2d7940; }
 
 form input, form textarea {
-  width: 50%;
-  max-width: 400px;
+  width: 100%;
+  border-radius: 5px;
   margin: 5px auto;
   padding: 8px;
   background: #F7F7F7; }

@@ -21,9 +21,11 @@
       }
     }
     h2 {
-      display: inline;
+      display: inline-block;
       background-color: rgb(72, 243, 255);
-      padding: 4px;
+      margin: 1.2rem;
+      height: 2.4rem;
+      padding: 8px;
     }
     footer {
       margin-top: 4.0rem;
@@ -200,21 +202,21 @@
           text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
           background: rgb(28, 184, 65);
           padding: 5px;
-          width: 50%;
-          max-width: 400px;
+          width: 100%;
+          transition: 1s;
           @media only screen and (max-width : 768px) {
             width: 100%;
           }
 }
 
 .submit:hover {
-	background: #2EBC99;
+	background: rgb(45, 121, 64);
 }
 
 form {
   input, textarea {
-    width: 50%;
-    max-width: 400px;
+    width: 100%;
+    border-radius: 5px;
     margin:5px auto;
     padding: 8px;
     background: #F7F7F7;    
