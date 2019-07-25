@@ -29,21 +29,19 @@ For some reason I like bright backgrounds to header text, so as you can see I've
 
 Particularly I like my custom links for pages and posts - they transition from blue to red with a thicker, lower underline. Here's the code for them:
 
-    a {
-        color: $fg-color;
-        text-transform: uppercase;
-        margin-left: 1.0rem;
-        margin-right: 1.0rem;
-        font-size: 1.6rem;
-        border-bottom: 0;
-        &:hover,
-        &:focus {
-          color: $link-color;
-          border-bottom: 0;
+      a {
+        font-weight: 300;
+        color: $link-color;
+        text-decoration: none;
+        border-bottom: 1px solid;
+        transition: all .3s ease-in;
+        &:focus,
+        &:hover {
+          padding-bottom: 4px;
+          border-bottom: 2px solid;
+          color: rgb(255, 0, 0);
         }
-        @media only screen and (max-width : 768px) {
-        	font-size: 1.4rem;
-        }
+      }
 
 ### Things I learned
 
