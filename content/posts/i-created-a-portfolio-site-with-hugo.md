@@ -1,8 +1,7 @@
 +++
 categories = ["updates"]
 date = "2019-07-25T20:15:23+01:00"
-draft = true
-image = ""
+image = "/uploads/coder-default.jpeg"
 series = []
 slug = "portfolio-hugo"
 tags = []
@@ -30,21 +29,21 @@ For some reason I like bright backgrounds to header text, so as you can see I've
 
 Particularly I like my custom links for pages and posts - they transition from blue to red with a thicker, lower underline. Here's the code for them:
 
-            a {
-              color: $fg-color;
-              text-transform: uppercase;
-              margin-left: 1.0rem;
-              margin-right: 1.0rem;
-              font-size: 1.6rem;
-              border-bottom: 0;
-              &:hover,
-              &:focus {
-                color: $link-color;
-                border-bottom: 0;
-              }
-              @media only screen and (max-width : 768px) {
-                font-size: 1.4rem;
-              }
+    a {
+        color: $fg-color;
+        text-transform: uppercase;
+        margin-left: 1.0rem;
+        margin-right: 1.0rem;
+        font-size: 1.6rem;
+        border-bottom: 0;
+        &:hover,
+        &:focus {
+          color: $link-color;
+          border-bottom: 0;
+        }
+        @media only screen and (max-width : 768px) {
+        	font-size: 1.4rem;
+        }
 
 ### Things I learned
 
@@ -54,6 +53,6 @@ There was plenty of reading of the documentation to get some things working. Usi
 * a comments section to blog posts. This was an incredible faff as I opted against the default for the theme, Disqus. In the end I managed to hook up [utteranc.es](https://utteranc.es/ "utterances comments") - the main downside being commenters must have a Github account, which rules out the internet users who haven't decided to learn how the whole bloody web works like I have.
 * a [contact form](https://canicodenow.github.io/folio/contact/ "contact me") - styled with some custom CSS and HTML and using [Getform](https://getform.io/ "Getform") to access the data.
 
-Naturally, I won't be happy with this for long and as soon as I know how I'll be setting up my site from scratch. I think you'll agree that this is an improvement on my [Wordpress one](https://canicodenow.wordpress.com/ "Wordpress blog"): 
+Naturally, I won't be happy with this for long and as soon as I know how I'll be setting up my site from scratch. I think you'll agree that this is an improvement on my [Wordpress one](https://canicodenow.wordpress.com/ "Wordpress blog"):
 
 Now to make some more things _for_ my portfolio...
