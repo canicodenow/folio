@@ -46,6 +46,7 @@ fields:
   description: Main image
   default: "/uploads/coder-default.jpeg"
 pages:
+- content/posts/i-created-a-portfolio-site-with-hugo.md
 - content/posts/i-found-some-more-time-to-study-down-the-back-of-the-sofa-or-i-ve-gone-part-time-for-a-year.md
 - content/posts/things-i-ve-made-so-far.md
 - content/posts/test-again.md
