@@ -1,7 +1,6 @@
 +++
 categories = ["projects"]
 date = 2020-01-05T13:51:50Z
-draft = true
 image = "/uploads/example-school.png"
 series = []
 slug = "bootstrap-school-homepage"
@@ -13,7 +12,7 @@ So as I plod through The Odin Project - I got through the 101 section and am cur
 
 We're looking to offer a service to schools whereby we manage their website and content. Part of that may be creating new websites for them because, at least where I'm from, school websites tend to be awful to look at.
 
-For some time I've wanted to know what all the fuss is about with Bootstrap. I know - I'll create a school homepage using Bootstrap...
+For some time I've wanted to know what all the fuss is about with Bootstrap. I know - I'll create a school homepage using Bootstrap... I found a decent tutorial that I was able to adapt to my own purposes - the nav bar, footer, three-column section are Bootstrap code which I changed the styling for.
 
 * Tutorial used: [This one from WebsiteSetup.org](https://websitesetup.org/bootstrap-tutorial-for-beginners/#1).
 * Time taken: A few hours
