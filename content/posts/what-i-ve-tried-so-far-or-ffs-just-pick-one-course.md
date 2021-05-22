@@ -1,6 +1,6 @@
 +++
 categories = []
-date = "2019-06-15T13:40:58+01:00"
+date = 2019-06-15T12:40:58Z
 image = "/uploads/odin-project.png"
 series = []
 slug = "what-ive-tried"
@@ -16,7 +16,7 @@ Then reality hit. I still would love to complete all the learning to code resour
 * Sense – the logical thing to do is to fully understand one language, or one course, before trying to pick up others.
 * Brain power – juggling numerous options and always looking ahead to the next one is just too much to think about.
 
-So now I’m following The Odin Project through to completion. I think this is the best way to get myself ‘job-ready’.
+So now I’m following The Odin Project through to completion. I think this is the best way to get myself ‘job-ready’, whatever that means.
 
 ## What have I tried before now?
 
